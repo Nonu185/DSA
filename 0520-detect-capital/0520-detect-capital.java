@@ -7,15 +7,9 @@ class Solution {
                 count++;
             }
         }
-        if(n==count){
-            return true;
-        }
-        else if(count==0){
-            return true;
-        }
-        else if( count==1 && Character.isUpperCase(word.charAt(0))){
-            return true;
-        }
+if(count==n) return true;
+if(count==0) return true;
+if(count==1 && Character.isUpperCase(word.charAt(0))) return true;
          return false;
         
     }
