@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Nonu185/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Nonu185/DSA/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nonu185/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Nonu185/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Nonu185/DSA/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
