@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nonu185/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Nonu185/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Nonu185/DSA/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Nonu185/DSA/tree/master/0238-product-of-array-except-self) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nonu185/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nonu185/DSA/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Nonu185/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
