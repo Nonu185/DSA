@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Nonu185/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nonu185/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nonu185/DSA/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Nonu185/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Nonu185/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Nonu185/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Nonu185/DSA/tree/master/0189-rotate-array) |
@@ -46,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Nonu185/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nonu185/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nonu185/DSA/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Nonu185/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Nonu185/DSA/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nonu185/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nonu185/DSA/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Nonu185/DSA/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
