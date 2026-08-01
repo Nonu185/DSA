@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nonu185/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Nonu185/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Nonu185/DSA/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Nonu185/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Nonu185/DSA/tree/master/0238-product-of-array-except-self) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nonu185/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Nonu185/DSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Nonu185/DSA/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Nonu185/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nonu185/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
 |  |
@@ -63,9 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Nonu185/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Nonu185/DSA/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nonu185/DSA/tree/master/0001-two-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Nonu185/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
