@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Nonu185/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nonu185/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nonu185/DSA/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Nonu185/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/Nonu185/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nonu185/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Nonu185/DSA/tree/master/0136-single-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Nonu185/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Nonu185/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nonu185/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nonu185/DSA/tree/master/0162-find-peak-element) |
