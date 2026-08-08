@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/Nonu185/DSA/tree/master/0520-detect-capital) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nonu185/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nonu185/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Nonu185/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nonu185/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
 |  |
 | ------- |
