@@ -5,15 +5,15 @@ class Solution {
         double cur = 0;
         double res =Integer.MIN_VALUE;
         int left =0;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<k;i++){
              cur+=nums[i];
-            if(i-left+1==k){
-                res= Math.max(res,cur/k);
-                cur-=nums[left];
-                left++;
-           
-            }
         }
+         res=cur/k;
+          
+          for(int i=k;i<n;i++){
+            cur=cur+nums[i]-nums[i-k];
+            res=Math.max(res,cur/k);
+          }
         return res; 
         
     }
