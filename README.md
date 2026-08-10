@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Nonu185/DSA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Nonu185/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nonu185/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0904-fruit-into-baskets](https://github.com/Nonu185/DSA/tree/master/0904-fruit-into-baskets) |
 | [1089-duplicate-zeros](https://github.com/Nonu185/DSA/tree/master/1089-duplicate-zeros) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nonu185/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Nonu185/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -92,11 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nonu185/DSA/tree/master/0001-two-sum) |
+| [0904-fruit-into-baskets](https://github.com/Nonu185/DSA/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nonu185/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Nonu185/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Nonu185/DSA/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nonu185/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nonu185/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
