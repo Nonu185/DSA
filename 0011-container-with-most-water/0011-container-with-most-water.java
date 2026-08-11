@@ -8,6 +8,7 @@ class Solution {
             int hig = Math.min(height[l],height[r]);
             int currentwater = wi * hig;
             ans = Math.max(ans,currentwater);
+            
             if(height[l]<height[r]){
                 l++;
             }
