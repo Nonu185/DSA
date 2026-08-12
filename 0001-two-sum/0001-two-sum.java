@@ -5,12 +5,10 @@ class Solution {
         for(int i=0; i<n; i++){
          int need = target-nums[i];
          if(map.containsKey(need)){
-          int x= map.get(need);
-            return new int[]{i,x};
+            return new int[]{map.get(need),i};
          }
          map.put(nums[i],i); 
             } 
-         int ans[]={};
-         return ans;
+         return  new int[]{};
     }
 }
