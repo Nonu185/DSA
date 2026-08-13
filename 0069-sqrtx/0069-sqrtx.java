@@ -6,9 +6,7 @@ class Solution {
         int start = 1;
         int end = x;
         int ans =0;
-       
-
-      
+    
         while (start <= end) {
           int  mid = start + (end - start) / 2;
             if ( mid == x/mid){
