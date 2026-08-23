@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Nonu185/DSA/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/Nonu185/DSA/tree/master/0520-detect-capital) |
+| [0680-valid-palindrome-ii](https://github.com/Nonu185/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nonu185/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Two Pointers
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nonu185/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Nonu185/DSA/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Nonu185/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0680-valid-palindrome-ii](https://github.com/Nonu185/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1089-duplicate-zeros](https://github.com/Nonu185/DSA/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nonu185/DSA/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/Nonu185/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Prefix Sum
 |  |
 | ------- |
