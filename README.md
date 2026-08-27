@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Nonu185/DSA/tree/master/1089-duplicate-zeros) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nonu185/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Nonu185/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nonu185/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Nonu185/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Nonu185/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nonu185/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nonu185/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nonu185/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Nonu185/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1089-duplicate-zeros](https://github.com/Nonu185/DSA/tree/master/1089-duplicate-zeros) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nonu185/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nonu185/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Nonu185/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Nonu185/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nonu185/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
