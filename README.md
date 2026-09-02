@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nonu185/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Nonu185/DSA/tree/master/0904-fruit-into-baskets) |
 | [1089-duplicate-zeros](https://github.com/Nonu185/DSA/tree/master/1089-duplicate-zeros) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Nonu185/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nonu185/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Nonu185/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nonu185/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Nonu185/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Nonu185/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Nonu185/DSA/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Nonu185/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
