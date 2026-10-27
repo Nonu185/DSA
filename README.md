@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nonu185/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Nonu185/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Nonu185/DSA/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/Nonu185/DSA/tree/master/1929-concatenation-of-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nonu185/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Nonu185/DSA/tree/master/1672-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Nonu185/DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
